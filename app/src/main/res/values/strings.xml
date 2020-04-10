@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JoshTFlickr</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="browse_image_description">Downloaded flickr photo</string>
+    <string name="photo_title_text">Title: %s</string>
+    <string name="photo_author_text">Author: %s</string>
+    <string name="photo_tags_text">Tags: %s</string>
+    <string name="activity_search">Search</string>
+    <string name="searchable_hint">Looking for?</string>
+    <string name="error404">No photos found    Please change search parameters by taping on the search icon.</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="joshflickr_is_a_sample_app_for_assigment">JoshFlickr is a simple app
+        created to demonstrate the implementation of Flickr API. #FlickrApi</string>
+    <string name="about">About:</string>
+    <string name="search_data">Hi! Search something above to see data here.</string>
+    <string name="tap_for_details"><u>Tap for details</u></string>
+    <string name="joshflickr">JoshTFlickr</string>
+</resources>
